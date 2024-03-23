@@ -1,1 +1,1 @@
-# tor-node-selector
+# tor-node-manager
